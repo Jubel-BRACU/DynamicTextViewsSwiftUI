@@ -11,7 +11,8 @@ import SwiftUI
 struct DynamicTextViewsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           // ContentView()
+            TestView()
         }
     }
 }

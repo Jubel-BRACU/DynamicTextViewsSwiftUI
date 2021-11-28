@@ -11,6 +11,9 @@
 		3E3FF2F92742C45800EAEA40 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3FF2F82742C45800EAEA40 /* ContentView.swift */; };
 		3E3FF2FB2742C45900EAEA40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E3FF2FA2742C45900EAEA40 /* Assets.xcassets */; };
 		3E3FF2FE2742C45900EAEA40 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E3FF2FD2742C45900EAEA40 /* Preview Assets.xcassets */; };
+		3E590B03274569A8002917E1 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E590B02274569A8002917E1 /* Helper.swift */; };
+		3E590B05274569BF002917E1 /* BottomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E590B04274569BF002917E1 /* BottomView.swift */; };
+		3E590B07274569F0002917E1 /* BottomViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E590B06274569F0002917E1 /* BottomViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		3E3FF2F82742C45800EAEA40 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3E3FF2FA2742C45900EAEA40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E3FF2FD2742C45900EAEA40 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3E590B02274569A8002917E1 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		3E590B04274569BF002917E1 /* BottomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomView.swift; sourceTree = "<group>"; };
+		3E590B06274569F0002917E1 /* BottomViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +61,9 @@
 				3E3FF2F82742C45800EAEA40 /* ContentView.swift */,
 				3E3FF2FA2742C45900EAEA40 /* Assets.xcassets */,
 				3E3FF2FC2742C45900EAEA40 /* Preview Content */,
+				3E590B02274569A8002917E1 /* Helper.swift */,
+				3E590B04274569BF002917E1 /* BottomView.swift */,
+				3E590B06274569F0002917E1 /* BottomViewCell.swift */,
 			);
 			path = DynamicTextViews;
 			sourceTree = "<group>";
@@ -139,6 +148,9 @@
 			files = (
 				3E3FF2F92742C45800EAEA40 /* ContentView.swift in Sources */,
 				3E3FF2F72742C45800EAEA40 /* DynamicTextViewsApp.swift in Sources */,
+				3E590B03274569A8002917E1 /* Helper.swift in Sources */,
+				3E590B05274569BF002917E1 /* BottomView.swift in Sources */,
+				3E590B07274569F0002917E1 /* BottomViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
